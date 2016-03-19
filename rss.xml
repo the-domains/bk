@@ -4,8 +4,15 @@
         <description><![CDATA[BK]]></description>
         <link>https://thegrid.ai/bk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 00:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 00:28:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Software Engineering]]></title>
+            <description><![CDATA[<h1>Software Engineering</h1>]]></description>
+            <link>https://thegrid.ai/bk/software-engineering/index.html</link>
+            <guid isPermaLink="false">9d88a208-63a6-4ac9-8fd7-29ae49e62020</guid>
+            <pubDate>Sat, 19 Mar 2016 00:28:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Hello, welcome to my personal website. Here you can find informatiom about me and my projects</p></article>]]></description>
