@@ -1,6 +1,6 @@
 name: BK
 favicon: null
-layout_spectrum: 0.5574575588107109
+layout_spectrum: 0.92436
 typography_spectrum: 0.61312
 title: BK
 cta:
@@ -22,7 +22,7 @@ color:
     - '#70c4b9'
     - '#a6fb56'
     - '#00fe00'
-  brandStrength: 0.875
+  brandStrength: 0.75
   lightness: 0.375
   saturation: 0.6875
   rhythmicContrast: 0.25
